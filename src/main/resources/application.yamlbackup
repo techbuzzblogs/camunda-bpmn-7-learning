@@ -1,0 +1,9 @@
+camunda.bpm.admin-user:
+  id: vino
+  password: vino
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/camunda
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
